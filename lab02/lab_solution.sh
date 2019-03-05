@@ -2,4 +2,10 @@
 #Bartłomiej Kliś
 #!/bin/bash
 
+#Exercise 1:
+cd /etc/
+echo *.conf
+
+#Excercise 2:
+
 
